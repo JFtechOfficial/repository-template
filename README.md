@@ -1,6 +1,6 @@
 # repository_template
 [insert full size banner or large logo](https://linktr.ee/jftechofficial)
-[![Any kind of image tag](https://img.shields.io/badge/made%20for-Raspberry%20Pi-red.svg)](https://www.raspberrypi.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) ![license](https://img.shields.io/github/license/JFtechOfficial/ultimate-ambilght-setup.svg) ![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/ultimate-ambilght-setup.svg) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JFtechOfficial/ultimate-ambilght-setup.svg) ![GitHub top language](https://img.shields.io/github/languages/top/JFtechOfficial/ultimate-ambilght-setup.svg) ![Requires.io](https://img.shields.io/requires/github/JFtechOfficial/ultimate-ambilght-setup.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) ![license](https://img.shields.io/github/license/JFtechOfficial/repository_templatesvg) ![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/repository_template.svg) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JFtechOfficialrepository_template.svg) ![GitHub top language](https://img.shields.io/github/languages/top/JFtechOfficial/repository_template.svg) ![Requires.io](https://img.shields.io/requires/github/JFtechOfficial/repository_template.svg)
 
 Small description. You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
@@ -24,10 +24,12 @@ Small description. You can also read this in [Italiano🇮🇹](README-it-IT.md)
 </details>
 
 ### Requirements
-What do you need
+
+* What do you need
 
 
 ## 💾 Installation
+
 * Do this
 
 * Then this
@@ -35,6 +37,7 @@ What do you need
 
 
 ## ⚙️ Manual Configuration
+
 How to configure something
 
 ### Part 1
@@ -51,6 +54,7 @@ How to use something
 
 
 ## 📚 Resources
+
 Something
 
 
