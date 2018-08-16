@@ -46,7 +46,7 @@ sudo reboot
 
 ## ▶️ Usage
 
-How to use somethingù
+How to use something
 *(example)*
 
 
