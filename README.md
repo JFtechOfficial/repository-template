@@ -1,6 +1,11 @@
 # repository_template
 [insert full size banner or large logo](https://linktr.ee/jftechofficial)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) ![license](https://img.shields.io/github/license/JFtechOfficial/repository_template.svg) ![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/repository_template.svg) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JFtechOfficial/repository_template.svg) ![GitHub top language](https://img.shields.io/github/languages/top/JFtechOfficial/repository_template.svg) ![Requires.io](https://img.shields.io/requires/github/JFtechOfficial/repository_template.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
+![license](https://img.shields.io/github/license/JFtechOfficial/repository_template.svg) 
+![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/repository_template.svg) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JFtechOfficial/repository_template.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/JFtechOfficial/repository_template.svg) 
+![Requires.io](https://img.shields.io/requires/github/JFtechOfficial/repository_template.svg)
 
 Small description. You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
